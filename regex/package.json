@@ -16,6 +16,6 @@
         "postcss": "^8.1.14"
     },
     "dependencies": {
-        "vue": "^3.4.19"
+        "verbal-expressions": "^1.0.2"
     }
 }
